@@ -26,3 +26,6 @@ This creates the same graphs as above.
 
 Note: The cities are all coordinates in the unit square and the origin city is the first city generated.<br>
 When the problem is generated it prints out all the cities and roads.
+
+
+All of the code ends with a prompt for raw input.  This means you can end the execution by hitting enter when it is done.  I did this in case it is being run in a window that closes out right away so you can control when it will close the window.
